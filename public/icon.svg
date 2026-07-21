@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <rect width="32" height="32" rx="7" fill="#0a0a0a"/>
+  <defs>
+    <linearGradient id="cf-gradient" x1="16" y1="8" x2="16" y2="26" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38bdf8"/>
+      <stop stop-color="#2563eb"/>
+    </linearGradient>
+  </defs>
+  <rect x="7" y="14" width="18" height="12" rx="2.5" fill="url(#cf-gradient)"/>
+  <path d="M12 14V11.5C12 9.57 13.57 8 15.5 8H16.5C18.43 8 20 9.57 20 11.5V14" stroke="url(#cf-gradient)" stroke-width="2" stroke-linecap="round"/>
+  <path d="M11 20H21L19.5 22.5H12.5L11 20Z" fill="#0a0a0a"/>
+  <rect x="13" y="22.5" width="6" height="1.2" rx="0.3" fill="#0a0a0a"/>
+  <rect x="15.2" y="16.5" width="1.6" height="5" rx="0.4" fill="#0a0a0a" transform="rotate(-25 16 19)"/>
+  <rect x="13" y="16" width="4.5" height="2" rx="0.5" fill="#0a0a0a" transform="rotate(-25 15.25 17)"/>
+  <line x1="16" y1="15.5" x2="16" y2="14" stroke="#0a0a0a" stroke-width="1" stroke-linecap="round"/>
+  <line x1="14.5" y1="16" x2="13.5" y2="15.2" stroke="#0a0a0a" stroke-width="0.8" stroke-linecap="round"/>
+  <line x1="17.5" y1="16" x2="18.5" y2="15.2" stroke="#0a0a0a" stroke-width="0.8" stroke-linecap="round"/>
+</svg>
